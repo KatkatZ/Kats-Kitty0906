@@ -1,0 +1,19 @@
+<!DOCTYPE CSS>
+
+<style>
+
+header {
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+
+nav{
+    background-color:yellow；
+    color:white;
+    text-align:right;
+    padding:10px
+}
+
+</style>
